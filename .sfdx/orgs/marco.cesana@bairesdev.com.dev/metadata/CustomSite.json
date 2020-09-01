@@ -1,0 +1,15 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0053t000008TkfbAAC",
+    "createdByName": "Marco Cesana",
+    "createdDate": "2020-08-19T19:48:30.000Z",
+    "fileName": "sites/HOD_Integration.site",
+    "fullName": "HOD_Integration",
+    "id": "0DM3t000000D8QBGA0",
+    "lastModifiedById": "0053t000008TkfbAAC",
+    "lastModifiedByName": "Marco Cesana",
+    "lastModifiedDate": "2020-08-20T13:47:47.000Z",
+    "type": "CustomSite"
+  }
+}

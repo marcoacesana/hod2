@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0053t000008TkfbAAC",
+    "createdByName": "Marco Cesana",
+    "createdDate": "2020-08-19T19:38:54.000Z",
+    "fileName": "staticresources/SiteSamples.resource",
+    "fullName": "SiteSamples",
+    "id": "0813t0000001rEoAAI",
+    "lastModifiedById": "0053t000008TkfbAAC",
+    "lastModifiedByName": "Marco Cesana",
+    "lastModifiedDate": "2020-08-19T19:38:54.000Z",
+    "manageableState": "unmanaged",
+    "type": "StaticResource"
+  }
+}

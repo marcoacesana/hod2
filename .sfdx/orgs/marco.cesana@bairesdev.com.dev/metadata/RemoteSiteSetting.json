@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0053t000008TkfbAAC",
+    "createdByName": "Marco Cesana",
+    "createdDate": "2020-08-17T17:21:59.000Z",
+    "fileName": "remoteSiteSettings/ApexDevNet.remoteSite",
+    "fullName": "ApexDevNet",
+    "id": "0rp3t000000JUjbAAG",
+    "lastModifiedById": "0053t000008TkfbAAC",
+    "lastModifiedByName": "Marco Cesana",
+    "lastModifiedDate": "2020-08-17T17:21:59.000Z",
+    "manageableState": "unmanaged",
+    "type": "RemoteSiteSetting"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0053t000008YIJlAAO",
+    "createdByName": "Automated Process",
+    "createdDate": "2020-08-17T18:23:15.000Z",
+    "fileName": "samlssoconfigs/hodpbo_SAML_SSO_Setting.samlssoconfig",
+    "fullName": "hodpbo_SAML_SSO_Setting",
+    "id": "0LE3t000000PJwnGAG",
+    "lastModifiedById": "0053t000008YIJlAAO",
+    "lastModifiedByName": "Automated Process",
+    "lastModifiedDate": "2020-08-17T18:23:15.000Z",
+    "manageableState": "unmanaged",
+    "type": "SamlSsoConfig"
+  }
+}
